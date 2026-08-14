@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-14T20:18:18.028477+00:00",
+  "updatedAt": "2026-08-14T20:28:13.233598+00:00",
   "sourceMode": "public-link",
   "sourceSheet": "PLAN",
-  "workbookFingerprint": "c13b0fc21f21a6d303aba5b7f3b94ea9540a1306e8ee1a33f7bfcc1aadbc1935",
+  "workbookFingerprint": "3682f7d40dfc2675bf5da6ecb489a76d20d138c64511ad62e5fc31870cbe7b35",
   "parserFingerprint": "3a48f0460168bd8cd6a2d4d22261c5d9ff2ac396a63933a5cb49a3ab8d0263ac",
-  "sourceFingerprint": "41ddc1ad51a3e3429801010f8e7ff5132c4e5ccadf7d723c7d428be4296c36c2",
+  "sourceFingerprint": "b3f19da02b7a124df67c020a7c6eb7948362264c8e4620b98cba58c206c29005",
   "lessons": [
     {
       "id": "2026-08-14-1000-pu1",
@@ -201,6 +201,18 @@
           "audio": null
         }
       ]
+    },
+    {
+      "id": "2026-08-15-1000-ivan",
+      "date": "2026-08-15",
+      "time": "10:00",
+      "student": "Ivan",
+      "level": "B1+",
+      "topic": "Future",
+      "focus": "ways of expressing future",
+      "duration": 0,
+      "accent": "orange",
+      "activities": []
     }
   ]
 }
