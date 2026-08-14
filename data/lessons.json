@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-14T18:55:56.766121+00:00",
+  "updatedAt": "2026-08-14T19:45:48.109989+00:00",
   "sourceMode": "public-link",
   "sourceSheet": "PLAN",
-  "workbookFingerprint": "0130ed509e5d7df58bfcc8d6d831779df857dc99ec9b37c5ecccf0440dc4c7f1",
+  "workbookFingerprint": "52c748a04c16a43aa8c9a960586c682254986936b1ce4e47b908cf9a270b267f",
   "parserFingerprint": "3a48f0460168bd8cd6a2d4d22261c5d9ff2ac396a63933a5cb49a3ab8d0263ac",
-  "sourceFingerprint": "2e7bdaec5809f1cf733dda35e7d1771624ab46e954efd1b4e2a2d52c20ab9fb6",
+  "sourceFingerprint": "501f72a73a881e7563029184626be6b51376306a2bd92a5560b4a12a9ef6e4a4",
   "lessons": [
     {
       "id": "2026-08-14-1000-pu1",
@@ -20,7 +20,7 @@
         {
           "order": 1,
           "title": "Warm-up",
-          "minutes": 3,
+          "minutes": 5,
           "url": "https://youtu.be/-LLPpg2-t0g?si=sQz1zXGO2abcdUKj",
           "note": "Morning routine video (revise)",
           "images": [],
@@ -81,10 +81,10 @@
       ]
     },
     {
-      "id": "2026-08-14-1100-egor",
+      "id": "2026-08-14-1100-egor-отмена---в-отпуске",
       "date": "2026-08-14",
       "time": "11:00",
-      "student": "Egor",
+      "student": "Egor (отмена - в отпуске)",
       "level": "A2",
       "topic": "Character & Personality",
       "focus": "Comparatives",
@@ -94,7 +94,7 @@
         {
           "order": 1,
           "title": "Warm-up",
-          "minutes": 8,
+          "minutes": 0,
           "url": "",
           "note": "",
           "images": [],
@@ -103,36 +103,100 @@
         {
           "order": 2,
           "title": "Grammar",
-          "minutes": 15,
-          "url": "https://docs.google.com/",
-          "note": "Comparatives",
+          "minutes": 0,
+          "url": "",
+          "note": "",
           "images": [],
           "audio": null
         },
         {
           "order": 3,
           "title": "Textbook",
-          "minutes": 12,
+          "minutes": 0,
           "url": "",
-          "note": "Exercise 6",
+          "note": "",
           "images": [],
           "audio": null
         },
         {
           "order": 4,
           "title": "Speaking",
-          "minutes": 20,
-          "url": "https://meet.google.com/",
-          "note": "Compare two people",
+          "minutes": 0,
+          "url": "",
+          "note": "",
           "images": [],
           "audio": null
         },
         {
           "order": 5,
           "title": "Homework",
+          "minutes": 0,
+          "url": "",
+          "note": "",
+          "images": [],
+          "audio": null
+        }
+      ]
+    },
+    {
+      "id": "2026-08-14-1200-dima",
+      "date": "2026-08-14",
+      "time": "12:00",
+      "student": "Dima",
+      "level": "A1",
+      "topic": "In the park",
+      "focus": "Present Cont",
+      "duration": 40,
+      "accent": "lime",
+      "activities": [
+        {
+          "order": 1,
+          "title": "Warm-up",
           "minutes": 5,
           "url": "",
-          "note": "Write 5 sentences",
+          "note": "What is the weather like? How many children / animals can you see? What are they doing?",
+          "images": [
+            "assets/generated/row17_image1.png"
+          ],
+          "audio": null
+        },
+        {
+          "order": 2,
+          "title": "Reading",
+          "minutes": 15,
+          "url": "",
+          "note": "",
+          "images": [
+            "assets/generated/row18_image1.png"
+          ],
+          "audio": null
+        },
+        {
+          "order": 3,
+          "title": "Grammar",
+          "minutes": 10,
+          "url": "",
+          "note": "Present Cont Negative",
+          "images": [
+            "assets/generated/row19_image1.png"
+          ],
+          "audio": null
+        },
+        {
+          "order": 4,
+          "title": "Speaking",
+          "minutes": 7,
+          "url": "https://www.baamboozle.com/game/2450302",
+          "note": "",
+          "images": [],
+          "audio": null
+        },
+        {
+          "order": 5,
+          "title": "Homework",
+          "minutes": 3,
+          "url": "",
+          "note": "",
           "images": [],
           "audio": null
         }
